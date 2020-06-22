@@ -8,7 +8,7 @@ mailid: sree@gmail.com
 
 App description : using for finance
 
-developers: 
+developers:sreekanth,sree 
 
 -----
 
